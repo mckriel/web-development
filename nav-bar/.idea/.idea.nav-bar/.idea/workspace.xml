@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22bf35ea-f0da-4221-94d5-61f4aee575de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../calculator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/preview.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-flipper/.idea/.idea.color-flipper.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-flipper/.idea/.idea.color-flipper.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-flipper/.idea/.idea.color-flipper.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-flipper/.idea/.idea.color-flipper.dir/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-flipper/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-flipper/hex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-flipper/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-flipper/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color-flipper/js/hex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/.idea/.idea.gradient-background-generator.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/.idea/.idea.gradient-background-generator.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/.idea/.idea.gradient-background-generator.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/.idea/.idea.gradient-background-generator.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/Gradient-Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradient-background-generator/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-counter/.idea/.idea.simple-counter.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-counter/.idea/.idea.simple-counter.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-counter/.idea/.idea.simple-counter.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-counter/.idea/.idea.simple-counter.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-counter/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-counter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-counter/styles.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2V4lxbddZOCkU5wvVm3ST1dYLbN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Matthew\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Matthew\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache",
+      "C:\\Users\\Matthew\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nav-bar/nav-bar/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22bf35ea-f0da-4221-94d5-61f4aee575de" name="Changes" comment="" />
+      <created>1694103483438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694103483438</updated>
+      <workItem from="1694103484954" duration="2832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
